@@ -14,7 +14,7 @@ import streamlit as st
 # CONFIGURAÇÕES DE E-MAIL (GMAIL)
 # ==========================================
 EMAIL_REMETENTE = "criticalnime@gmail.com"
-SENHA_APP_GMAIL = "Sirlucas0@"
+SENHA_APP_GMAIL = "eiww ljvi vqcp usvm"
 
 # Configuração da página otimizada para responsividade
 st.set_page_config(
