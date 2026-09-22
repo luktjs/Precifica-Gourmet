@@ -11,7 +11,7 @@ import pandas as pd
 import streamlit as st
 
 # ==========================================
-# CONFIGURAÇÕES DE E-MAIL (GMAIL)
+# CONFIGURAÇÕES DE E-MAIL (Hotmail)
 # ==========================================
 EMAIL_REMETENTE = "gabriela_gabi_bibi1992@hotmail.com"
 SENHA_APP_GMAIL = "6554728"
