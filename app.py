@@ -11,10 +11,10 @@ import pandas as pd
 import streamlit as st
 
 # ==========================================
-# CONFIGURAÇÕES DE E-MAIL (Hotmail)
+# CONFIGURAÇÕES DE E-MAIL (GMAIL)
 # ==========================================
-EMAIL_REMETENTE = "gabriela_gabi_bibi1992@hotmail.com"
-SENHA_APP_GMAIL = "6554728"
+EMAIL_REMETENTE = "criticalnime@gmail.com"
+SENHA_APP_GMAIL = "Sirlucas0@"
 
 # Configuração da página otimizada para responsividade
 st.set_page_config(
